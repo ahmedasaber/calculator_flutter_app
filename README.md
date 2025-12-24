@@ -7,6 +7,7 @@ A clean and simple calculator application built with Flutter that performs basic
 This is a mobile calculator app with a minimalist design that supports the four fundamental arithmetic operations: addition, subtraction, multiplication, and division. The app features a user-friendly interface with a clear display and responsive buttons.
 
 ## 📱 ScreenShots
+|                                |                               |
 |:------------------------------:|:-----------------------------:|
 | ![Products](screenshots/1.png) | ![Loading](screenshots/2.png) |
 
