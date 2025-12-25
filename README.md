@@ -64,7 +64,7 @@ The app follows a clean separation of concerns:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ahmedasaber/calculator_flutter_app
+   git clone https://github.com/ahmedasaber/calculator_flutter_app.git
    cd calculator_flutter_app
    ```
 
